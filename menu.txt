@@ -1,0 +1,7 @@
+Idli,30.0
+Masala Dosa,40.0
+Buns,25.0
+Poori,45.0
+Tea,15.0
+Coffe,12.0
+french fries,80.0

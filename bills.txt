@@ -1,0 +1,17 @@
+
+Order ID: 0
+Customer: kishan
+Food Items:
+Masala Dosa:  40.0 x 2
+Coffe:  12.0 x 1
+Total Price:  92.0
+Rating: 5
+-------------------
+Order ID: 1
+Customer: Nisarga
+Food Items:
+Poori:  45.0 x 1
+Tea:  15.0 x 1
+Total Price:  60.0
+Rating: 4
+-------------------
